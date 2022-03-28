@@ -1,5 +1,5 @@
-# hackton-resources
-hackton resources repo it will have value resources 
+# hackthon-resources
+hackthon resources repo it will have value resources 
 
 ``` The following repo will hold useful resource needed to create a project```
 
