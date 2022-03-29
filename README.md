@@ -11,7 +11,7 @@ hackathon resources repo it will have value resources 🇺🇦
 
 ##### Table of Contents  
 [Usefull links to support Ukraine🇺🇦](#Links)  <br/>
-[Hackathon Tips](https://bit.ly/36I9mMW) 
+[Hackathon Tips](https://bit.ly/36I9mMW) <br/>
 [No Code](#NoCode)   <br/>
 [Recommended Cloud](#RecommendedCloud)   <br/>
 [Addtional](#Addon)  <br/>
