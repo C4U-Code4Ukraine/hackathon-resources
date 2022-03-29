@@ -1,4 +1,4 @@
-# hackathon-resources
+# hackathon-resources (🇺🇦 and more)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
@@ -8,7 +8,7 @@ hackathon resources repo it will have value resources 🇺🇦
 ``` The following repo will hold useful resource needed to create a project```
 
 ##### Table of Contents  
-[Usefull links to support Ukraine](#Links)  <br/>
+[Usefull links to support Ukraine🇺🇦](#Links)  <br/>
 [Hackathon Tips](https://bit.ly/36I9mMW) 
 [No Code](#NoCode)   <br/>
 [Recommended Cloud](#RecommendedCloud)   <br/>
@@ -16,7 +16,7 @@ hackathon resources repo it will have value resources 🇺🇦
 
 ...
 <a name="Links"/>
-## Usefull links to support Ukraine
+## Usefull links to support Ukraine 🇺🇦
  * [Requested Open Source Projects](https://stand-with-ukraine.pp.ua/)
 
 
