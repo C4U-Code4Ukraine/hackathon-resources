@@ -5,9 +5,9 @@
 
 
 ----
-hackathon resources repo it will have value resources 🇺🇦
+Code4Ukraine (C4U) is a hybrid (local and remote) hackathon event to help and solve challenges for aiding humanitarian organizations and on the ground volunteers
 
-``` The following repo holds useful resource needed to create a project```
+``` The following repo holds useful resource for Code4Ukraine hackathon```  🇺🇦
 
 ##### Table of Contents  
 [Usefull links to support Ukraine🇺🇦](#Links)  <br/>
