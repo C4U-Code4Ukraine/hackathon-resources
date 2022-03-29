@@ -7,7 +7,7 @@
 ----
 hackathon resources repo it will have value resources 🇺🇦
 
-``` The following repo will hold useful resource needed to create a project```
+``` The following repo holds useful resource needed to create a project```
 
 ##### Table of Contents  
 [Usefull links to support Ukraine🇺🇦](#Links)  <br/>
