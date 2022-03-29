@@ -17,7 +17,8 @@ hackathon resources repo it will have value resources 🇺🇦
 ...
 <a name="Links"/>
 ## Usefull links to support Ukraine 🇺🇦
- * [Requested Open Source Projects](https://stand-with-ukraine.pp.ua/)
+ * [How to help ukraine🇺🇦](https://stand-with-ukraine.pp.ua/)
+ * [Open Projects to help 🇺🇦](https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine)
 
 
 ...
